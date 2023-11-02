@@ -11,6 +11,7 @@
     "any": "cpp",
     "rope": "cpp",
     "slist": "cpp",
-    "system_error": "cpp"
+    "system_error": "cpp",
+    "random": "cpp"
   }
 }

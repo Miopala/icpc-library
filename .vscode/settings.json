@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "string": "cpp",
+    "*.tcc": "cpp",
+    "deque": "cpp",
+    "forward_list": "cpp",
+    "list": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "vector": "cpp",
+    "any": "cpp",
+    "rope": "cpp",
+    "slist": "cpp",
+    "system_error": "cpp"
+  }
+}

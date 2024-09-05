@@ -1,7 +1,7 @@
 vector<int> z_function(string s) {
     int n = (int)s.size();
     vector<int> z(n);
-    int l = 0, r = 0;
+    int l = (int)0, r = 0;
     for(int i = 1; i < n; i++) {
         if(i < r) {
             z[i] = min(r - i, z[i - l]);
